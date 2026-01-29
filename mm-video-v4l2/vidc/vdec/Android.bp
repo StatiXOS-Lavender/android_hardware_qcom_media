@@ -55,7 +55,7 @@ cc_library_shared {
         "libomxvdec_headers",
         "libutils_headers",
         "media_plugin_headers",
-        "qti_kernel_headers",
+        "device_kernel_headers",
     ],
 
     shared_libs: [
